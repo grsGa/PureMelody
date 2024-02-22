@@ -1,3 +1,2 @@
-# open-Music
-项目开发中……
+# Wip
 Wip
